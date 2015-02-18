@@ -12,4 +12,4 @@ How To Run:
 Sample URL
 ==========
 
-http://example.com/<controller>/<method>.html
+http://example.com/[controller_name]/[method_name].html
